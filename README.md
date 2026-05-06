@@ -39,6 +39,11 @@ This is a real-time AI assistant built with Node.js and the Google Gemini 1.5 Fl
 4.	The AI will respond both in text on the screen and via audio.
 
 
+<img width="1918" height="848" alt="Screenshot 2026-05-06 131954" src="https://github.com/user-attachments/assets/fba820e7-7728-4268-b155-95cae8a14e32" />
+
+
+
+
 
 
 
