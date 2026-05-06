@@ -1,0 +1,62 @@
+@import url('https://googleapis.com');
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-image: url('../assets/background.jpg');
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-family: 'Montserrat', monospace;
+    font-weight: 700;
+    font-size: 6em;
+    color: white;
+}
+
+.mic-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20rem;
+    height: 20rem;
+
+    background-color: #f1f2f6;
+    border: 4px solid #2f3542;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.fa-microphone {
+    font-size: 10rem;
+
+    /* Duotone Colors */
+    --fa-primary-color: #ff4757;
+    /* Vibrant Red */
+    --fa-secondary-color: #2f3542;
+    /* Dark Navy */
+    --fa-secondary-opacity: 0.6;
+}
+
+.output-you {
+    font-size: large;
+    padding: 0 2px;
+}
