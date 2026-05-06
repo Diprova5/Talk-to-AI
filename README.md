@@ -34,7 +34,7 @@ This is a real-time AI assistant built with Node.js and the Google Gemini 1.5 Fl
 
 🖥️ Usage  
 1.	Open your browser and navigate to http://localhost:3000.
-2.	2.	Click the Microphone icon to start speaking.
+2.	 Click the Microphone icon to start speaking.
 3.	Wait for Gemini to process your request.
 4.	The AI will respond both in text on the screen and via audio.
 
