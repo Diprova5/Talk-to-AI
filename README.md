@@ -1,19 +1,19 @@
-AI Voice Chat Bot 🤖🎙️
+AI Voice Chat Bot 🤖🎙️  
 This is a real-time AI assistant built with Node.js and the Google Gemini 1.5 Flash model. It features voice interaction using the Web Speech API, allowing users to speak their queries and hear the AI's response.
 
-✨ Features
+✨ Features  
 •	Gemini AI Integration: High-speed text generation using Google's latest model.
 •	Voice Recognition: Converts user speech into text (Speech-to-Text).
 •	Voice Synthesis: The AI reads its response out loud (Text-to-Speech).
 •	Minimalistic UI: A clean interface for easy interaction.
 
 
-🛠️ Prerequisites
+🛠️ Prerequisites  
 •	Node.js (v18.0.0 or higher)
 •	A Google Gemini API Key (Get it at Google AI Studio)
 
 
-🚀 Installation
+🚀 Installation  
 1.	Clone the repository:
     **bash**
       git clone https://github.com
